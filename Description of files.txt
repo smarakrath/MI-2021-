@@ -1,5 +1,0 @@
-This file contains the description of all the other files uploaded in the repository. The following files have been uploaded:
-
-i) ABX3_NBG.csv - This is the dataset containing the chemical formula, space group, Materials Project ID and the nature of band gap of 1528 ABX3 compounds.
-
-ii) ABX3.json - This file contains the same dataset along with the pymatgen structure objects for all the materials.
